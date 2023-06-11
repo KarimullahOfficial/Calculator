@@ -59,11 +59,17 @@ input {
   cursor: pointer;
 }
 button {
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   margin: 5px;
-  font-size: 40px;
+  font-size: 30px;
   border-radius: 50%;
   background-color: #5e6278;
   box-shadow: -8px -8px 15px rgb(255, 255, 255, 0.1);
+}
+.equal {
+  background-color: peru;
+}
+.operator {
+  color: #6dee0a;
 }
